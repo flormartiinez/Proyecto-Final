@@ -171,4 +171,12 @@ input:focus, textarea:focus, select:focus {
   box-shadow: 0 0 5px white;
 }
 
+.mapa li a {
+  color: white;
+}
+
+.mapa li {
+  list-style: none;
+}
+
 /*# sourceMappingURL=style.css.map */
